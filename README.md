@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+# Harika bir zurna resmi
+
 ![github](zurna1.jpg)
 
 
