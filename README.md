@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![github](figures/zurna1.jpg)
+![github](zurna1.jpg)
 
 
 ## Installation
